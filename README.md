@@ -1,34 +1,38 @@
 <h1 align="center">👋 你好，我是小冷</h1>
-<h3 align="center">机器人操作系统（ROS）开发者 | 开源爱好者</h3>
+<h3 align="center">03年 个人剪辑师 | 独立开发者</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS-Noetic-22314E?style=for-the-badge&logo=ros&logoColor=white">
-  <img src="https://img.shields.io/badge/ROS2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <a href="https://ice-website-self.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_个人网站-ice--website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ### 🧑‍💻 关于我
 
-- 🔭 专注于 **ROS / ROS2** 机器人开发
-- 🌱 正在学习 **移动机器人导航与 SLAM**
-- 👯 希望与大家交流机器人相关技术
-- 💬 可以和我聊 **ROS、嵌入式、机器人**
+- 🎬 **03年** 出生的个人剪辑师，热爱视频创作与后期制作
+- 🌐 个人网站：[ice-website-self.vercel.app](https://ice-website-self.vercel.app)
+- 🔭 正在探索 **独立开发与内容创作**
+- 💬 欢迎交流剪辑、开发、创作相关话题
 - 📫 联系我：xiaoleng@example.com
 
 ---
 
 ### 🛠️ 技术栈
 
-| 领域 | 技术 |
-|------|------|
-| 机器人框架 | ROS (Noetic), ROS2 (Humble) |
-| 编程语言 | Python, C++, C |
-| 仿真工具 | Gazebo, Rviz |
-| 版本控制 | Git, GitHub |
-| 嵌入式 | Arduino, STM32 |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white">
+  <img src="https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+</p>
 
 ---
 

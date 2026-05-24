@@ -19,5 +19,6 @@
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=capcut,premiere,ae,javascript,typescript,vue,react,vite,nodejs,nextjs,java,python,redis,mysql,postgresql,rabbitmq,supabase,linux,docker,html,css,pinia,spring,mybatis,vercel,cloudflare" alt="Tech Stack">
+  <img src="jianying.png" alt="剪映" width="40" height="40">
+  <img src="https://skillicons.dev/icons?i=capcut,premiere,ae,javascript,typescript,vue,react,vite,nodejs,nextjs,java,python,redis,mysql,postgresql,rabbitmq,supabase,linux,docker,html,css,pinia,spring,vercel,cloudflare" alt="Tech Stack">
 </p>

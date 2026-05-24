@@ -19,5 +19,5 @@
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,vue,git,ffmpeg,premiere,aftereffects,ros,linux,docker" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=capcut,premiere,ae,javascript,typescript,vue,react,vite,nodejs,nextjs,java,python,redis,mysql,postgresql,rabbitmq,supabase,linux,docker,html,css,pinia,axios,spring,mybatis" alt="Tech Stack">
 </p>

@@ -1,4 +1,4 @@
-👋 我是 Xiao Leng 👋 我是小冷
+#  我是 Xiao Leng 👋 我是小冷
 
 ---
 
@@ -12,10 +12,12 @@
 
 📧 邮箱：`xiaolengros@gmail.com`
 
-‍💻 我正在全力投入 **视频创作与独立开发** 的探索，这是我迄今为止投入精力最多的方向。我希望它能够成为一个真正有用且独特的作品，同时保持简单易用。
+💻 我是一名自由剪辑师，有剪辑需求可以找我
 
-🌱 虽然目前还有很多不足，但我会用我所有的技能和热情不断改进它。
-
-技术栈
+## 技术栈
 
 ---
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,vue,git,ffmpeg,premiere,aftereffects,ros,linux,docker" alt="Tech Stack">
+</p>

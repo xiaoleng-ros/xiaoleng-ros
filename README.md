@@ -6,7 +6,7 @@
 
  🔗个人网站：[https://ice-website-self.vercel.app](https://ice-website-self.vercel.app)
 
- 开源作品：[ice-website](https://ice-website-self.vercel.app)
+ 📦 开源作品：[ice-website](https://ice-website-self.vercel.app)
 
 💬 微信：`Iceuu26`
 
